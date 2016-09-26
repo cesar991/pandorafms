@@ -16,7 +16,7 @@ from selenium.webdriver.remote.webelement import WebElement
 import unittest2, time, re
 
 
-class PAN13(PandoraWebDriverTestCase):
+class Network_components(PandoraWebDriverTestCase):
 
 
 	test_name = u'Planned_downtime'
